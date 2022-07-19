@@ -1,0 +1,1 @@
+arm-linux-gnueabihf-gcc   -rdynamic CMakeFiles/led_test.dir/atomic_led_test.c.o  -o led_test 
